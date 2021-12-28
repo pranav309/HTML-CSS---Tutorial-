@@ -1,0 +1,58 @@
+/****************************************** TAG SELECTOR ******************************************/
+
+a { text-decoration: none; }
+
+a:hover { color: #7900FF; }
+
+body { background-color: #DDDDDD; }
+
+form { text-align: center; }
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: Georgia;
+}
+
+h3 { color: #6E3CBC; }
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+label {
+  line-height: 2;
+  font-size: 20px;
+}
+
+/****************************************** CLASS SELECTOR ******************************************/
+
+.contact {
+  text-align: center;
+  font-size: 20px;
+}
+
+.details {
+  text-align: center;
+  font-size: 50px;
+}
+
+.info {
+  margin-left: auto;
+  margin-right: auto;
+  width: 22em;
+  font-size: 20px;
+}
+
+.submit {
+  font-size: 15px;
+  background-color: #FFF1BD;
+}
+
+.submit:active { color: blue; }
+
+/****************************************** ID SELECTOR ******************************************/
